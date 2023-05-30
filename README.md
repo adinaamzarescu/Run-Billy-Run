@@ -1,5 +1,5 @@
 # RUN BILLY RUN
-
+![example](https://github.com/adinaamzarescu/Run-Billy-Run/blob/main/Video_run_billy_run.gif)
 ## Purpose
 The purpose of this code is to control a game on an LCD display using an Arduino board. The game involves a player character running and jumping over terrain obstacles. The code utilizes various libraries and defines constants and variables to control the game logic and display.
 
