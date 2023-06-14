@@ -6,18 +6,8 @@ The purpose of this code is to control a game on an LCD display using an Arduino
 ## Dependencies
 The code requires the following libraries to be included:
 
-- `FastIO.h`
-- `I2CIO.h`
-- `LCD.h`
-- `LiquidCrystal.h`
-- `LiquidCrystal_I2C.h`
-- `LiquidCrystal_I2C_ByVac.h`
-- `LiquidCrystal_SI2C.h`
-- `LiquidCrystal_SR.h`
-- `LiquidCrystal_SR1W.h`
-- `LiquidCrystal_SR2W.h`
-- `LiquidCrystal_SR3W.h`
-- `ProtoStax_MmlMusicPlayer.h`
+- `NewliquidCrystal`
+- `ProtoStax_Mml_Music_Player`
 
 Make sure these libraries are properly installed and accessible to the Arduino environment.
 
@@ -45,7 +35,7 @@ To use this code, follow these steps:
 3. Upload the code to your Arduino board.
 4. Interact with the game using the joystick and observe the gameplay on the LCD display.
 
-## Acknowledgements
+## Resources
 
 [1] https://www.arduino.cc/
 
